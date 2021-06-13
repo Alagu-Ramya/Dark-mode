@@ -9,9 +9,9 @@ const textBox = document.getElementById("text-box");
 
 function imageMode(color){
 
-    image1.src=`/-- template-light-dark-mode/img/undraw_Dev_focus_re_6iwt_${color}.svg`;
-    image2.src=`/-- template-light-dark-mode/img/undraw_proud_coder_${color}.svg`;
-    image3.src=`/-- template-light-dark-mode/img/undraw_feeling_proud_${color}.svg`;
+    image1.src=`/public/img/undraw_Dev_focus_re_6iwt_${color}.svg`;
+    image2.src=`/public/img/undraw_proud_coder_${color}.svg`;
+    image3.src=`/public/img/undraw_feeling_proud_${color}.svg`;
 
 }
 //Dark Mode Style
